@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "logical-air-263500",
+  "private_key_id": "984a7a0e33eb05b9fbd30d92c983b8c5d0dfa37a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJvzgY+E3uF8DK\ne80KyjZBn1cGAuWhEngAG05LR96rd2Wt845j39RsRjyzILykDoYCjDo2FrjJiszL\nXa6cm3hjRnMJGuiqTPjlc1KSqt0LndUHmftEMRgU4jVNdJ4jabiXN58T2TILPP0R\novsQvcZoln5fP2JB3NAfvRTxTUKoBvnKT1gPCLf78y5x9mXXsvyGB/VOkarPGBpV\naQY7x6Ozo2o38j6pNY+limSlR8++pvm2s2zzisMZpDV37wqKpa6E/SxvxK3n5gUp\nCYL+WRW5nnDmX6Iq6P6WJHjE1M9FBd9AizVqfiFqXYfYP7ZZBf/RoAWxXlZYv4kX\n1OeojrUHAgMBAAECggEABZwY/8NVASZMfrKOBit4DDIeDCugCHBFHNP/20cBBYCm\nTnBF00FxWDuAC1eA9zl0MbReRoekXOjfMEUPcGdQftKGqs9CvHTICigpK7nzqJ5z\n54xY1E0fivIvc4kVS6Hpl5b3Toqg5B5GvCokCWmBJA9E9EITkVUZ0MEVkkIwPcGD\nrQjY/ITQW5YvxMD6V3JbZ5B2oJsYWaBt2KrHHYcuaGrukRQdTVo5TlfaTI73+7cj\nfVRk0rdhSOcjFmx/CPGDHsMzTF9tfJnskktz9aTQs9FhCWZYOiB+Vu720TUO2ikw\nMz1fexjtQ1gA9idPQDWv+G0+/QstcgOitGvqWz+XCQKBgQC9HxIKTYhjK52EKB8C\nkCB952KXGowibMu7N3Zq3KCMB44as4bC/7U73QsGndk6xCdFCqj//a3h1yqdBK4O\nBo8cbe3bLEubUn9EKv0J4usCA4+venQRIV4u9SVi4dhAUtKH+cCzL1rJWQu86ydv\nV4VP7NPMjWvX8YC4LuOKx/OqJQKBgQC6dUjPyG0o8RXxXjMrm4cYSOjf4AaXkL4t\ntgK930SkCS9mulry79ps29t7JehX6QfKfviqn7XwGXp1rL9cGiTztM+fknAqdsPG\noWQ2Po6PMLn6zPNfHZ2Q29wZnGd/xTZHmeUzPzktpZSFXzV+NCb8/9NH+siIEosx\nNEX7aTH8uwKBgCTNNAR/O+gYZ6l86TPlef0mFqBS0SwtwaNn0opO7orxOWzmvHWb\nrte8VtXtx4TRANdFkMdnxPtqlGdDrt8Z1aVxmtSIlRnfftZ0CxNubc7RhJdgG8/t\nj1dR6vmH+z3hIAjHyADWWTNPOaKEnALlpBJ+gmSOrIqz+xlcPnkWGctlAoGAJjfO\nAdDqFv87aSrOwDxzt1WSbfjkQQLJCGOLMlHmJt0/GwZNiAgDtFZoKVi+w+4ey7G0\n1HxB9YGzaRVMb9toAY/pEqMYXIvVWwxPlxLBc7YgGLkTlUZjuoJmHdXCHR1WH9z6\nbsOhu6p5w9CdDU4xQ6BINTPBEKsEXsSBJ6QLO+sCgYA1/Vuxylr/vK6d4x8Oj+Nh\ngC7NMjKix83cMF8b8WUGg3vrN4qRsiAdNG++lr0NnfBSCtaX0rctLQHk7wV6eGXn\nznObwnG5wRBDz8AdYL5tRbzgiblIPGk7UFbb4hVF017KAQ9OHP6HCTAX4xet+fRY\nTnZe866vClXQDKtKDQotPg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@logical-air-263500.iam.gserviceaccount.com",
+  "client_id": "117155688926345077625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40logical-air-263500.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
