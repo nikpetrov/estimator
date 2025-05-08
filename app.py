@@ -2,9 +2,9 @@ import streamlit as st
 
 st.set_page_config(page_title="Extension Cost Estimator", page_icon="🏠")
 
-st.title("🏠 Extension Cost Estimator (Ireland)")
+st.title("🏠 Construction Cost Estimator (Ireland)")
 
-st.markdown("Enter details about your planned 40 sqm extension:")
+st.markdown("Enter details about your planned extension:")
 
 location = st.selectbox("📍 Location (County)", ["Dublin", "Cork", "Galway", "Limerick"])
 roof_type = st.selectbox("🏗️ Roof Type", ["Flat", "Pitched"])
